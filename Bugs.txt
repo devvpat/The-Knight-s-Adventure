@@ -1,0 +1,7 @@
+Known Major Bugs:
+
+Left-clicking a chest while standing next to it doesn't open the chest
+Temporary fix: Move to different sides of the chest (while remaining in contact with the chest) and repeatedly press left-click
+
+Opening a chest will cause the player not to be able to jump
+Temporary fix: Try moving around the platform you are currently on (including standing on the very edge) while repeatedly pressing space. If this doesn't work, you will have to either die or restart the level and try again, unfortunately.
